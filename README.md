@@ -13,7 +13,7 @@ INTEGRA is a collection of different repositories which all serve a specific goa
 ### INTEGRA Kundenauftrag
 [INTEGRA Kundenauftrag anlegen](https://github.com/Integra-SUPERB/INTEGRA_Kundenauftrag_anlegen)   
 [INTEGRA Kundenauftrag ändern](https://github.com/Integra-SUPERB/INTEGRA_Kundenauftrag_aendern)  
-[INTEGRA Kundenauftrag ändern](https://github.com/Integra-SUPERB/INTEGRA_Kundenauftrag_abfragen)
+[INTEGRA Kundenauftrag abfragen](https://github.com/Integra-SUPERB/INTEGRA_Kundenauftrag_abfragen)
 
 ### INTEGRA Faktura
 [INTEGRA Faktura anlegen](https://github.com/Integra-SUPERB/INTEGRA_Faktura_anlegen)
